@@ -1,0 +1,4 @@
+NODE=https://.../
+DATABASE=test_db
+DATABASE_CRED=test_pw
+DATABASE_HOSTNAME=test.test.test
